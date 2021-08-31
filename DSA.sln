@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.809.5
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSA", "DSA\DSA.csproj", "{4D2D81B7-2D74-410C-BDBF-3088A9F94447}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.csproj", "{510F840C-DB2F-4F3D-BEAD-FC990A2EBC92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4D2D81B7-2D74-410C-BDBF-3088A9F94447}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D2D81B7-2D74-410C-BDBF-3088A9F94447}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D2D81B7-2D74-410C-BDBF-3088A9F94447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{510F840C-DB2F-4F3D-BEAD-FC990A2EBC92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510F840C-DB2F-4F3D-BEAD-FC990A2EBC92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510F840C-DB2F-4F3D-BEAD-FC990A2EBC92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510F840C-DB2F-4F3D-BEAD-FC990A2EBC92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
