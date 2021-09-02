@@ -6,7 +6,12 @@ namespace Sorting
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[] array = new int[] { 10, -1, 20, 5, 8, 0, 9 };
+
+            SelectionSort selectionSort = new SelectionSort();
+            selectionSort.Sort(array);
+
+
         }
     }
 }
