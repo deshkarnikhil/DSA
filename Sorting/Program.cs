@@ -8,9 +8,11 @@ namespace Sorting
         {
             int[] array = new int[] { 10, -1, 20, 5, 8, 0, 9 };
 
-            SelectionSort selectionSort = new SelectionSort();
-            selectionSort.Sort(array);
+            // SelectionSort selectionSort = new SelectionSort();
+            //selectionSort.Sort(array);
 
+            BubbleSort bubbleSort = new BubbleSort();
+            bubbleSort.Sort(array);
 
         }
     }
