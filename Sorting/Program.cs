@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Linq;
+using System.Linq.Expressions;
+using System.Threading;
 
 namespace Sorting
 {
@@ -11,8 +14,12 @@ namespace Sorting
             // SelectionSort selectionSort = new SelectionSort();
             //selectionSort.Sort(array);
 
-            BubbleSort bubbleSort = new BubbleSort();
-            bubbleSort.Sort(array);
+            // BubbleSort bubbleSort = new BubbleSort();
+            // bubbleSort.Sort(array);
+
+            //TwoSum twoSum = new TwoSum();
+            //var resultTwoSum = twoSum.FindTwoSum(array.ToList(), 30);
+
 
         }
     }
